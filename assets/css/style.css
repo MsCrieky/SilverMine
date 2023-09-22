@@ -65,7 +65,7 @@ header a {
 /* Navbar styling w dropdown toggle */
 nav {
     position: absolute;
-    background-color: #0000007c;
+    background-color: #0000006e;
     box-shadow: 0 3px 3px #000000a5;
     left: 0;
     padding: 5px;
@@ -89,6 +89,7 @@ main {
     /* Enlarge main element to push footer down*/
     flex: 1 0 auto;
     margin-top: 66px;
+    margin-bottom: -25px;
 }
 
 /* Stick Section */
@@ -100,7 +101,7 @@ main {
 }
 
 #cover-text {
-    background-color: #9c6a4d7b;
+    background-color: #9c6a4d68;
     font-family: 'roboto', sans-serif;
     color: #ffffff;
     letter-spacing: 3px;
@@ -162,6 +163,41 @@ main {
 
 .art {
     background-color: #0000003b;
+}
+
+#sec-info {
+    width: 100%;
+    height: auto;
+    margin: 20px auto;
+}
+
+#melted-img {
+    background: url(../images/work.png) no-repeat center;
+    width: 70vw;
+    height: 70vw;
+    margin: 15px;
+    /* Makes the square image into a circle */
+    border-radius: 50%;
+    max-width: 170px;
+    max-height: 170px;
+}
+
+#melted{
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+
+#info {
+    width: 100%;
+    height: auto;
+    background-color: #4b3827;
+}
+
+.info-group {
+    padding: 20px;
+    color: #ffffff;
+    text-align: center;
 }
 
 /* Gallery page */
@@ -247,5 +283,27 @@ main {
     #cover-text {
         width: 25%;
         font-size: 65%;
+    }
+}
+
+/* Large devices (laptops and desktops, 1318px and up) */
+@media screen and (min-width: 1318px) {
+/* Main Content */
+main {
+    /* Enlarge main element to push footer down*/
+    flex: 1 0 auto;
+    margin-top: 66px;
+    margin-bottom: -36px;
+}
+
+/* Large devices (laptops and desktops, 1318px and up) */
+@media screen and (min-width: 1318px) {
+
+    /* Main Content */
+    main {
+        /* Enlarge main element to push footer down*/
+        flex: 1 0 auto;
+        margin-top: 66px;
+        margin-bottom: -42px;
     }
 }

@@ -117,20 +117,23 @@ main {
 
 /* Reasons section */
 #art {
-    width: 80%;
+    width: 100%;
     margin: 20px auto;
 }
 
 #art h2 {
     margin-bottom: 10px;
-    text-align: right;
+    text-align: center;
     font-size: 140%;
     color: #000000;
 }
 
 .header h2, h3 {
-    color: #000000;
+    color: #ffffff;
     text-align: left;
+    font-size: 100%;
+    margin: 2px;
+    padding: 5px;
 }
 
 #idea-group > div,
@@ -138,6 +141,7 @@ main {
     line-height: 20px;
     margin-bottom: 20px;
     text-align: left;
+    color: #ffffff
 }
 
 #silver p {
@@ -147,6 +151,10 @@ main {
 #silver hr {
     border-top: 1px solid #3a3a3a;
     margin: 5px 0;
+}
+
+#silver {
+    background: url(../images/artbackground.png) no-repeat center center/cover; 
 }
 
 /* Footer */

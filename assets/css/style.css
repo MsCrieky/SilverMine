@@ -60,13 +60,14 @@ h1 {
 /* Navbar styling w dropdown toggle */
 nav {
     position: absolute;
-    background-color: #07161a8f;
+    background-color: #000000;
     box-shadow: 0 3px 3px #000000a5;
     left: 0;
     padding: 5px;
     width: 100%;
     display: none;
     top: 100%;
+    color: #ffffff;
 }
 
 /* Nav toggle */
@@ -87,8 +88,16 @@ main {
 }
 
 /* Footer */
-footer {
-    background-color: green;
+#social-media {
+    background-color: #07161A;
+    font-size: 150%;
+    list-style-type: none;
+    align-items: baseline;
+    display: flex;
+    gap: 50px;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 7px 0;
 }
 
 /* Media query: tablets and larger (768px and up) */

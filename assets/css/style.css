@@ -18,6 +18,18 @@ body {
     font-family: 'roboto', sans-serif;
 }
 
+h1 {
+    font-family: 'great vibes', sans-serif;
+    color: #ffffff;
+    letter-spacing: 3px;
+}
+
+h2, h3 {
+    font-family: 'roboto', sans-serif;
+    color: #ffffff;
+    letter-spacing: 3px;
+}
+
 /* Header */
 header {
     background-color: #ffffff;
@@ -34,13 +46,6 @@ header {
 header a {
     text-decoration: none;
     color: inherit;
-}
-
-h1 {
-    font-family: 'great vibes', sans-serif;
-    color: #ffffff;
-    letter-spacing: 3px;
-    color: #ffffff;
 }
 
 #menu {
@@ -91,6 +96,23 @@ main {
     height: 400px;
     width: 100%;
     background: url('../images/measure1.png') no-repeat center/cover;
+    position: relative;
+}
+
+#cover-text {
+    background-color: #9c6a4d7b;
+    font-family: 'roboto', sans-serif;
+    color: #ffffff;
+    letter-spacing: 3px;
+    position: absolute;
+    left: 5px;
+    font-size: 55%;
+    margin: 5px;
+    bottom: 5px;
+    width: 40%;
+    min-height: 160px;
+    padding: 10px;
+    text-align: center;
 }
 
 /* Footer */
@@ -137,15 +159,27 @@ main {
         margin-top: 10px;
     }
 
-    /* Push the main content down to accommodate the bigger header, adjust the back-to-top button */
+    /* Main Content */
     main {
+    /* Push the main content down to accommodate the bigger header, adjust the back-to-top button */
     margin-top: 85px;
+    }
+
+    /* Stick Section */
+    #cover-text {
+        width: 30%;
     }
 }
 
 /* Large devices (laptops and desktops, 992px and up) */
 @media screen and (min-width: 992px) {
-#menu a:hover {
-    border-bottom: 1px solid #3a3a3a;
-}
+    #menu a:hover {
+        border-bottom: 1px solid #3a3a3a;
+    }
+
+    /* Stick Section */
+    #cover-text {
+        width: 25%;
+        font-size: 65%;
+    }
 }

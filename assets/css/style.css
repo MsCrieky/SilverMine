@@ -115,6 +115,40 @@ main {
     text-align: center;
 }
 
+/* Reasons section */
+#art {
+    width: 80%;
+    margin: 20px auto;
+}
+
+#art h2 {
+    margin-bottom: 10px;
+    text-align: right;
+    font-size: 140%;
+    color: #000000;
+}
+
+.header h2, h3 {
+    color: #000000;
+    text-align: left;
+}
+
+#idea-group > div,
+#work-group > div {
+    line-height: 20px;
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+#silver p {
+    padding: 0 20px;
+}
+
+#silver hr {
+    border-top: 1px solid #3a3a3a;
+    margin: 5px 0;
+}
+
 /* Footer */
 #social-media {
     background-color: #07161A;

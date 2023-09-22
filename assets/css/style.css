@@ -20,7 +20,13 @@ body {
 
 /* Header */
 header {
-    background-color: blue;
+    background-color: yellow;
+}
+
+h1 {
+    font-family: 'great vibes', sans-serif;
+    color: #ffffff;
+    letter-spacing: 3px;
 }
 
 /* Main Content */

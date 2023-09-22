@@ -81,10 +81,16 @@ nav {
 
 /* Main Content */
 main {
-    background-color: orange;
     /* Enlarge main element to push footer down*/
     flex: 1 0 auto;
     margin-top: 66px;
+}
+
+/* Stick Section */
+#stick {
+    height: 400px;
+    width: 100%;
+    background: url('../images/measure1.png') no-repeat center/cover;
 }
 
 /* Footer */
@@ -139,6 +145,7 @@ main {
 
 /* Large devices (laptops and desktops, 992px and up) */
 @media screen and (min-width: 992px) {
-    #menu a:hover {
-        border-bottom: 1px solid #3a3a3a;
-    }
+#menu a:hover {
+    border-bottom: 1px solid #3a3a3a;
+}
+}

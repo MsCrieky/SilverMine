@@ -114,3 +114,15 @@ footer {
     .nav-toggle-label {
         display: none;
     }
+
+    /* Increase the size of the logo title and subheading text */
+    #logo {
+        letter-spacing: 3px;
+        font-size: 250%;
+        margin-top: 10px;
+    }
+
+    /* Push the main content down to accommodate the bigger header, adjust the back-to-top button */
+    main {
+    margin-top: 85px;
+    }

@@ -213,21 +213,25 @@ main {
 
 /* Contact Page */
 #bg {
-    background: url(../images/contact-bg.png) no-repeat center/cover;
+    background-image: url(../images/contact-bg.png);
+    background-size: cover;
+    padding: 20% 25%;
+    flex-grow: 1;
 }
 
 #contact-us {
-    background-color: #ffffff99;
-    min-width: 250px;
-    max-width: 500px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+    background-color: #9c6a4d68;
     padding: 40px;
 }
 
-.form-group {
-    
+#find-us-bg {
+    background-color: #9c6a4d68;
+}
+
+#find-us p {
+    text-align: center;
+    margin-bottom: 5px;
+    color: #ffffff;
 }
 
 /* Footer */

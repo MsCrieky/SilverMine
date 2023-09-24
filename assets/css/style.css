@@ -211,6 +211,10 @@ main {
     line-height: 1em;
 }
 
+#gallery {
+    background-color: #1b150f;
+}
+
 /* Contact Page */
 #bg {
     background-image: url(../images/contact-bg.png);
@@ -373,8 +377,19 @@ main {
 @media screen and (min-width: 1440px) {
     /* Enlarge main element to push footer down*/
     main {
-    flex: 1 0 auto;
-    margin-top: 86px;
-    margin-bottom: -36px;
+        flex: 1 0 auto;
+        margin-top: 86px;
+        margin-bottom: -36px;
+        }
+
+    #contact-us {
+        background-color: #9c6a4d68;
+        padding: 10px;
+        max-width: 420px;
+    }
+        
+    #submit {
+        width: 250px;
+        margin: 5px 75px;
     }
 }

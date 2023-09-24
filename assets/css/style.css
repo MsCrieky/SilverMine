@@ -116,7 +116,7 @@ main {
     text-align: center;
 }
 
-/* Reasons section */
+/* The Art section */
 #art {
     width: 100%;
     margin: 20px auto;
@@ -145,7 +145,8 @@ main {
 }
 
 #silver {
-    background: url(../images/artbackground.png) no-repeat center center/cover; 
+    background: url(../images/artbackground.png) no-repeat center center/cover;
+    font-family: 'roboto', sans-serif;
 }
 
 .art {
@@ -198,11 +199,6 @@ main {
     padding: 20px;
     color: #ffffff;
     text-align: center;
-}
-
-#sec-info h2 {
-    color: #ffffff
-    background-color;
 }
 
 /* Gallery page */
@@ -293,22 +289,21 @@ main {
 
 /* Large devices (laptops and desktops, 1318px and up) */
 @media screen and (min-width: 1318px) {
-/* Main Content */
-main {
-    /* Enlarge main element to push footer down*/
-    flex: 1 0 auto;
-    margin-top: 66px;
-    margin-bottom: -36px;
-}
-
-/* Large devices (laptops and desktops, 1318px and up) */
-@media screen and (min-width: 1318px) {
-
     /* Main Content */
     main {
         /* Enlarge main element to push footer down*/
         flex: 1 0 auto;
-        margin-top: 66px;
-        margin-bottom: -32px;
+        margin-top: 85px;
+        margin-bottom: -36px;
+    }
+}
+
+/* Large devices (laptops and desktops, 1440px and up) */
+@media screen and (min-width: 1440px) {
+    /* Enlarge main element to push footer down*/
+    main {
+    flex: 1 0 auto;
+    margin-top: 86px;
+    margin-bottom: -36px;
     }
 }

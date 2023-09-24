@@ -43,42 +43,40 @@
         <section id="contact">
             <div id="contact-us">
                 <form action="https://formdump.codeinstitute.net" method="post">
-                    <h2><i class="fa-solid fa-address-card" style="color: #ffffff;"></i> Contact Us</h2>
+                    <h2 id="h2-contact-us"><i class="fa-solid fa-address-card" style="color: #ffffff;"></i> Contact Us</h2>
                     <div id="first-name" class="form-group">
-                        <label for="name">First Name:</label>
-                        <input type="text" id="name" name="name" placeholder="Write your name here..."; required>
+                        <label for="first-name">First Name:</label>
+                        <input type="text" id="first-name" name="first-name" class="text-input" required>
                     </div>
                     <div id="last-name" class="form-group">
                         <label for="last-name">Last Name:</label>
-                        <input type="text" id="last-name" name="last-name" placeholder="Write your last name here..." required>
+                        <input type="text" id="last-name" name="last-name" class="text-input" required>
                     </div>
                     <div id="email" class="form-group">
                         <label for="email">Email:</label>
-                        <input type="text" id="email" name="email" placeholder="Write your email here..." required>
+                        <input type="text" id="email" name="email" class="text-input" required>
                     </div>
-                    <div id="messsage" class="form-group">
+                    <div id="message" class="form-group">
                         <label for="message">Message:</label>
-                        <input type="text" id="message" name="message" placeholder="If you have somthing you want us to make for you, let us know...">
+                        <input type="text" id="message" name="message" class="text-input">
                     </div>
                     <br>
                     <div id="radio-interest">
-                        <label for="interest">If you are interested in more info about silversmithing, please tick this </label>
+                        <label for="interest">If you are interested in more info about silversmithing, please tick this <i class="fa-solid fa-arrow-right" style="color: #ffffff;"></i></label>
                         <input type="radio" id="interest" >
                     </div>
                     <br>
-                    <button>Send</button>
+                    <input type="submit" value="Send" id="submit">
+
+                        <div id="find-us">
+                            <p>Silver Lodge</p>
+                            <p>Kungsgatan 65</p>
+                            <p>139 75 Stockholm</p>
+                            <p>Sweden</p>
+                        </div>
                 </form>
             </div>
         </section>
-
-        <div id="find-us-bg">
-            <div id="find-us">
-                <p>Silver Lodge</p>
-                <p>Kungsgatan 65</p>
-                <p>139 75 Stockholm</p>
-                <p>Sweden</p>
-            </div>
-        </div>
     </main>
 
     <!--Footer-->

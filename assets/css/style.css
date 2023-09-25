@@ -10,7 +10,7 @@
 
 /* General styles */
 body {
-    min-height: 100vh;
+    min-height: 120vh;
     display: flex;
     flex-direction: column;
     /* Generic project styles */
@@ -88,9 +88,9 @@ nav {
 main {
     /* Enlarge main element to push footer down*/
     flex: 1 0 auto;
-    /* Add margin at the top to prevent content from being covered by the header */
+    /* Add margin at the top and bottom to prevent content from being covered by the header/footer */
     margin-top: 66px;
-    margin-bottom: -25px;
+    margin-bottom: -5px;
     /* Enable flex properties for child elements */
     display: flex;
     flex-direction: column;
@@ -301,7 +301,7 @@ main {
     gap: 50px;
     flex-wrap: wrap;
     justify-content: center;
-    padding: 7px 0;
+    padding: 15px 0;
 }
 
 /* Media query: large or landscape phones (576px and up) */
@@ -354,13 +354,15 @@ main {
     #cover-text {
         width: 30%;
     }
+
 /* Info Section */
 #melted {
     display: flex;
     flex-direction: row;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-evenly;
     position: relative;
+    margin-bottom: 15px;
 }
 
 /* Gallery Page */
@@ -389,7 +391,7 @@ main {
         /* Enlarge main element to push footer down*/
         flex: 1 0 auto;
         margin-top: 85px;
-        margin-bottom: -36px;
+        margin-bottom: -5px;
     }
 }
 
@@ -399,7 +401,7 @@ main {
     main {
         flex: 1 0 auto;
         margin-top: 86px;
-        margin-bottom: -36px;
+        margin-bottom: -5px;
         }
 
     /* Gallery Page */

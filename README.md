@@ -2,7 +2,6 @@
 
 ## Introduction
 
-<hr>
 Silver Lodge is a site that hopes to inspire others in the art of working with silver.
 Anyone can become a silversmith. It just requires a genuine interest and a small investment towards tools.
 A few ideas of somthing shiny can become reality if you follow a few simple steps,
@@ -14,7 +13,6 @@ Silversmithing is the art of working with silver to create exquisite jewelry, de
 
 ## Features
 
-<hr>
 Silver Lodge consist of 3 pages: Home, Galler and a Contact page.
 The Home Page serves as the welcoming gateway to the Silversmith website, providing visitors with an overview of the site's purpose and offerings.
 The Gallery Page is the heart of the Silversmith website, where visitors can explore an extensive collection of stunning silverware pieces.

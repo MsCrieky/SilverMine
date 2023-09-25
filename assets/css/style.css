@@ -32,7 +32,7 @@ h2, h3 {
 
 /* Header */
 header {
-    background-image: url(../images/header-bg-workbench.png);
+    background-image: url(../images/header-bg-workbench.webp);
     padding: 10px 1rem;
     position: fixed;
     z-index: 99;
@@ -100,7 +100,7 @@ main {
 #stick {
     height: 300px;
     width: 100%;
-    background: url('../images/landingpage-bg-measure1.png') no-repeat center/cover;
+    background: url('../images/landingpage-bg.webp') no-repeat center/cover;
     position: relative;
 }
 
@@ -149,7 +149,7 @@ main {
 }
 
 #silver {
-    background: url(../images/the-art-bg.png) no-repeat center center/cover;
+    background: url(../images/the-art-bg.webp) no-repeat center center/cover;
     font-family: 'roboto', sans-serif;
 }
 
@@ -177,7 +177,7 @@ main {
 }
 
 #melted-img {
-    background: url(../images/facts.png) no-repeat center;
+    background: url(../images/facts.webp) no-repeat center;
     width: 70vw;
     height: 70vw;
     margin: 15px;
@@ -217,7 +217,7 @@ main {
 
 /* Contact Page */
 #bg {
-    background-image: url(../images/contact-bg.png);
+    background-image: url(../images/contact-bg.webp);
     background-size: cover;
     padding: 10% 15%;
     flex-grow: 1;
@@ -381,6 +381,11 @@ main {
         margin-top: 86px;
         margin-bottom: -36px;
         }
+
+    /* Gallery Page */
+    #photos {
+        column-count: 4;
+    }
 
     #contact-us {
         background-color: #9c6a4d68;

@@ -9,7 +9,7 @@ and you can be on your way to making your own silver jewlery. Silver Lodge hopes
 
 Silversmithing is the art of working with silver to create exquisite jewelry, decorative items, cutlery, and more. As a silversmith, you have the opportunity to transform raw silver into unique and beautiful pieces through a combination of traditional techniques and modern technology. This README guide will provide you with an overview of the steps and considerations for becoming a silversmith
 
-![Am I responsive](assets/images/readme-responsive.png)
+![Am I responsive](assets/images/readme-images/readme-responsive.png)
 
 ## Features
 
@@ -24,11 +24,12 @@ The Contact Page offers a convenient way for visitors to connect with the websit
 <li>The Navigation Bar is fixed and will always be visable on all pages, the full responsive navigation bar includes links to the Home page, Gallery and Contact page and is identical in each page to allow for easy navigation.</li>
 <li>The user can easily navigate from page to page across all devices without having to revert back to the previous page using the ‘back’ button.</li>
 
-![Navigation Bar](assets/images/readme-navigationbar.png)
-</ul>
+![Navigation Bar](assets/images/readme-images/readme-navigationbar.png)
 
 <ul>Landing Page
 <li>The landing part of the page consist of a photograph with text overlay that gives the user a understanding of what the page is about.</li>
 
-![Ladning Page](assets/images/readme-landingpage.png)
+![Ladning Page](assets/images/readme-images/readme-landingpage.png)
 </ul>
+
+

@@ -9,4 +9,4 @@ and you can be on your way to making your own silver jewlery. Silver Lodge hopes
 
 Silversmithing is the art of working with silver to create exquisite jewelry, decorative items, cutlery, and more. As a silversmith, you have the opportunity to transform raw silver into unique and beautiful pieces through a combination of traditional techniques and modern technology. This README guide will provide you with an overview of the steps and considerations for becoming a silversmith
 
-![Landing Page](assets/images/landingpage-bg.png)
+![Landing Page](assets/images/readme-responsive.png)

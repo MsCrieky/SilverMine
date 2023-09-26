@@ -62,3 +62,10 @@ Gallery
 - This is a valuable section to give the user and idea of what they can easily create themselves.
 
 ![Gallery Section](assets/images/readme-images/readme-gallery.png)
+
+Contact Us page
+- A user-friendly contact form allows visitors to enter their name and email address.
+- This form simplifies the process of reaching out to site administrators and includes a radiobutton if the user is interested in more information via mail.
+- They can also write a message where they can ask for more information or make an order.
+
+![Contact Us Section](assets/images/readme-images/readme-contact.png)

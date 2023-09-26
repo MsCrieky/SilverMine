@@ -80,7 +80,6 @@ Future Features
 - A more detailed section with pictures and information about the step to step process of making your own ring.
 - A page where we introduce ourselfes and offer courses.
 
-
 ## Tecnologies Used
 
 - [HTML5](https://en.wikipedia.org/wiki/HTML5)
@@ -113,12 +112,25 @@ Validation Results
     - Index.html - No errors or warnings
     - Gallery.html - No errors but a warning: "Section lacks heading. Consider using h2-h6 elements to add identifying headings to all sections, or else use a div element instead for any cases where no heading is needed." Here i changed the "section" into a "div" instead and that took away the warning.
     - Contact.html - 4 errors. I had identical "id" in one of the "divs" and "input" which I quickly changed and the result was after that no errors.
-- W3C CSS Validator: 
-    - Style - 
+- W3C CSS Validator:
+    - Style - No errors.
 
 ![Stylesheet](assets/images/readme-images/readme-style.png)
 
 Manual Testing
 
 - The website was tested on Google Chrome, Firefox och Safari browsers.
-- 
+- The website was viewed on desktop computers, laptops and various mobilephones.
+- Devtools was used to see how the site looks on different screen sizes.
+
+![Lighthouse](assets/images/readme-images/readme-lighthouse.png)
+
+## Deployment
+
+Github was used to deploy the live version of Silver Lodge. 
+The following steps were taken:
+1. Log into Github and locate the SilverMine repository.
+2. Then tap into the Setting menu, located in the navigation meny of the header.
+3. In the meny to the left, under Code and automation you will find "Pages"
+4. Make sure the "Deploy from Branch" under the Source tab is chosen, then change the "None" dropdown menu under Branch to "main".
+5. Then click "Save" - Give it a minute, then refresh the page and your live link will show up under the GitHub Pages heading.

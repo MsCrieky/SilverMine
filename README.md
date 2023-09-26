@@ -117,3 +117,8 @@ Validation Results
     - Style - 
 
 ![Stylesheet](assets/images/readme-images/readme-style.png)
+
+Manual Testing
+
+- The website was tested on Google Chrome, Firefox och Safari browsers.
+- 

@@ -69,3 +69,29 @@ Contact Us page
 - They can also write a message where they can ask for more information or make an order.
 
 ![Contact Us Section](assets/images/readme-images/readme-contact.png)
+
+Future Features
+- More images to gallery.
+- A more detailed section with pictures and information about the step to step process of making your own ring.
+- A page where we introduce ourselfes and offer courses.
+
+
+## Tecnologies Used
+- [HTML5](https://en.wikipedia.org/wiki/HTML5)
+- [CSS3](https://en.wikipedia.org/wiki/CSS)
+
+## Frameworks, Libraries & Programs Used
+
+- Github
+  - Deployment of the website and storing the files online.
+- Google Fonts
+  - Import main font the website.
+- Am I Responsive
+  - Mockup picture for the README file.
+- Codeanywhere
+  - To write the code.
+- Favico.io
+- Font Awsome
+  - For icons
+
+

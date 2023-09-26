@@ -14,22 +14,32 @@ Silversmithing is the art of working with silver to create exquisite jewelry, de
 ## Features
 
 Silver Lodge consist of 3 pages: Home, Galler and a Contact page.
-The Home Page serves as the welcoming gateway to the Silversmith website, providing visitors with an overview of the site's purpose and offerings.
+The Home Page serves as the welcoming gateway to the Silver Lodge website, providing visitors with an overview of the site's purpose.
 The Gallery Page is the heart of the Silversmith website, where visitors can explore an extensive collection of stunning silverware pieces.
 The Contact Page offers a convenient way for visitors to connect with the website administrators or the featured silversmiths.
 
 ### Existing Features
 
-<ul>Navigaion Bar
-<li>The Navigation Bar is fixed and will always be visable on all pages, the full responsive navigation bar includes links to the Home page, Gallery and Contact page and is identical in each page to allow for easy navigation.</li>
-<li>The user can easily navigate from page to page across all devices without having to revert back to the previous page using the ‘back’ button.</li>
+Navigaion Bar
+
+- The Navigation Bar is fixed and will always be visable on all pages, the full responsive navigation bar includes links to the Home page, Gallery and Contact page and is identical in each page to allow for easy navigation.
+- The user can easily navigate from page to page across all devices without having to revert back to the previous page using the ‘back’ button.</li>
 
 ![Navigation Bar](assets/images/readme-images/readme-navigationbar.png)
 
-<ul>Landing Page
-<li>The landing part of the page consist of a photograph with text overlay that gives the user a understanding of what the page is about.</li>
+Landing Page
+
+- The landing part of the page consist of a photograph with text overlay that gives the user a understanding of what the page is about.</li>
 
 ![Ladning Page](assets/images/readme-images/readme-landingpage.png)
-</ul>
 
+The Art of Silver
 
+This secition consist of four text boxes the process of creating a silver jewlery in a simplfied way.
+
+- First box: General information about silver.
+- Second: What is needed for the process of creating a piece of jewlery.
+- Third: If the user wants to make a more complex piece this needs to be followed.
+- Forth: The last step, to get a piece shiny is simple but very important.
+
+![The Art of Silver](assets/images/readme-images/readme-artofsilver.png)

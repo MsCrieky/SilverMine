@@ -119,7 +119,8 @@ Validation Results
 
 Manual Testing
 
-- The website was tested on Google Chrome, Firefox och Safari browsers.
+- The website was tested on Google Chrome, Firefox och Safari brows
+ers.
 - The website was viewed on desktop computers, laptops and various mobilephones.
 - Devtools was used to see how the site looks on different screen sizes.
 
@@ -134,3 +135,8 @@ The following steps were taken:
 3. In the meny to the left, under Code and automation you will find "Pages"
 4. Make sure the "Deploy from Branch" under the Source tab is chosen, then change the "None" dropdown menu under Branch to "main".
 5. Then click "Save" - Give it a minute, then refresh the page and your live link will show up under the GitHub Pages heading.
+
+The live link to Silver Lodge: https://mscrieky.github.io/SilverMine/
+
+## Credits
+

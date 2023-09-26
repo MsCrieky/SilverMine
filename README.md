@@ -49,3 +49,10 @@ Facts
 - It also contains a bit more of fun facts about silver and it's history and what other things silver is used for.
 
 ![Facts Section](assets/images/readme-images/readme-facts.png)
+
+Footer
+- The stylish footer contains links to our social media.
+- A valuable asset to the user as it gives them an easy contact option via social media.
+- All the links will open up in a new page.
+
+![Facts Section](assets/images/readme-images/readme-footer.png)

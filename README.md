@@ -56,3 +56,9 @@ Footer
 - All the links will open up in a new page.
 
 ![Facts Section](assets/images/readme-images/readme-footer.png)
+
+Gallery
+- The gallery will provide the user with beautiful images of different silverware and silversmiths in action.
+- This is a valuable section to give the user and idea of what they can easily create themselves.
+
+![Gallery Section](assets/images/readme-images/readme-gallery.png)

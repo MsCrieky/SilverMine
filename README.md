@@ -112,6 +112,8 @@ Validation Results
 - W3C Markup Validator:
     - Index.html - No errors or warnings
     - Gallery.html - No errors but a warning: "Section lacks heading. Consider using h2-h6 elements to add identifying headings to all sections, or else use a div element instead for any cases where no heading is needed." Here i changed the "section" into a "div" instead and that took away the warning.
-    - Contact.html - 
+    - Contact.html - 4 errors. I had identical "id" in one of the "divs" and "input" which I quickly changed and the result was after that no errors.
 - W3C CSS Validator: 
-- 
+    - Style - 
+
+![Stylesheet](assets/images/readme-images/readme-style.png)

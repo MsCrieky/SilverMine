@@ -45,12 +45,14 @@ This secition consist of four text boxes the process of creating a silver jewler
 ![The Art of Silver](assets/images/readme-images/readme-artofsilver.png)
 
 Facts
+
 - This section provides a few photos of silversmits working on certain items.
 - It also contains a bit more of fun facts about silver and it's history and what other things silver is used for.
 
 ![Facts Section](assets/images/readme-images/readme-facts.png)
 
 Footer
+
 - The stylish footer contains links to our social media.
 - A valuable asset to the user as it gives them an easy contact option via social media.
 - All the links will open up in a new page.
@@ -58,12 +60,14 @@ Footer
 ![Facts Section](assets/images/readme-images/readme-footer.png)
 
 Gallery
+
 - The gallery will provide the user with beautiful images of different silverware and silversmiths in action.
 - This is a valuable section to give the user and idea of what they can easily create themselves.
 
 ![Gallery Section](assets/images/readme-images/readme-gallery.png)
 
 Contact Us page
+
 - A user-friendly contact form allows visitors to enter their name and email address.
 - This form simplifies the process of reaching out to site administrators and includes a radiobutton if the user is interested in more information via mail.
 - They can also write a message where they can ask for more information or make an order.
@@ -71,12 +75,14 @@ Contact Us page
 ![Contact Us Section](assets/images/readme-images/readme-contact.png)
 
 Future Features
+
 - More images to gallery.
 - A more detailed section with pictures and information about the step to step process of making your own ring.
 - A page where we introduce ourselfes and offer courses.
 
 
 ## Tecnologies Used
+
 - [HTML5](https://en.wikipedia.org/wiki/HTML5)
 - [CSS3](https://en.wikipedia.org/wiki/CSS)
 
@@ -94,4 +100,18 @@ Future Features
 - Font Awsome
   - For icons
 
+## Testing
 
+The Silver Lodge pages were all tested using the W3C Markup Validator and W3C CSS, to ensure there were no errors.
+
+- [W3C Markup Validator](https://validator.w3.org/)
+- [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
+
+Validation Results
+
+- W3C Markup Validator:
+    - Index.html - No errors or warnings
+    - Gallery.html - No errors but a warning: "Section lacks heading. Consider using h2-h6 elements to add identifying headings to all sections, or else use a div element instead for any cases where no heading is needed." Here i changed the "section" into a "div" instead and that took away the warning.
+    - Contact.html - 
+- W3C CSS Validator: 
+- 

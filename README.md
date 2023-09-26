@@ -140,3 +140,25 @@ The live link to Silver Lodge: https://mscrieky.github.io/SilverMine/
 
 ## Credits
 
+Code
+
+- Understanding the concept of flexbox was learned through Complete Guide to Flexbox
+- The README template was helpfully provided by Code Institute (template)
+- Using W3Scools as a tool was extreamly helpful
+
+Content
+
+- All the text was written by the developer.
+- The icons used were taken from Font Awsome.
+
+Media
+
+- All images were taken from the Pexels (free stock photos, royalty free images.)
+- FreeConvert.com was used to resize all images.
+
+## Acknowledgements
+
+- Slack community has been a great resource for help and ideas.
+- My mentor Mitko Bachvarov has provided me with good links to helpful websites and gently guided me with good feedback.
+- David Calikes from Code institue has been a great help and I will apreciate him always being there in the late hours. 
+- Anna, my insparation and support. Thank you.

@@ -43,3 +43,9 @@ This secition consist of four text boxes the process of creating a silver jewler
 - Forth: The last step, to get a piece shiny is simple but very important.
 
 ![The Art of Silver](assets/images/readme-images/readme-artofsilver.png)
+
+Facts
+- This section provides a few photos of silversmits working on certain items.
+- It also contains a bit more of fun facts about silver and it's history and what other things silver is used for.
+
+![Facts Section](assets/images/readme-images/readme-facts.png)

@@ -109,11 +109,11 @@ The Silver Lodge pages were all tested using the W3C Markup Validator and W3C CS
 Validation Results
 
 - W3C Markup Validator:
-    - Index.html - No errors or warnings
-    - Gallery.html - No errors but a warning: "Section lacks heading. Consider using h2-h6 elements to add identifying headings to all sections, or else use a div element instead for any cases where no heading is needed." Here i changed the "section" into a "div" instead and that took away the warning.
-    - Contact.html - 4 errors. I had an identical "id" in one of the "divs" and "input" which I quickly changed and the result was after that no errors.
+  - Index.html - No errors or warnings
+  - Gallery.html - No errors but a warning: "Section lacks heading. Consider using h2-h6 elements to add identifying headings to all sections, or else use a div element instead for any cases where no heading is needed." Here i changed the "section" into a "div" instead and that took away the warning.
+  - Contact.html - 4 errors. I had an identical "id" in one of the "divs" and "input" which I quickly changed and the result was after that no errors.
 - W3C CSS Validator:
-    - Style - No errors.
+  - Style - No errors.
 
 ![Stylesheet](assets/images/readme-images/readme-style.png)
 
@@ -127,15 +127,16 @@ Manual Testing
 
 ## Deployment
 
-Github was used to deploy the live version of Silver Lodge. 
+Github was used to deploy the live version of Silver Lodge.
 The following steps were taken:
+
 1. Log into Github and locate the SilverMine repository.
 2. Then tap into the Setting menu, located in the navigation menu of the header.
 3. In the menu to the left, under Code and automation, you will find "Pages"
 4. Make sure the "Deploy from Branch" under the Source tab is chosen, then change the "None" dropdown menu under Branch to "main".
 5. Then click "Save" - Give it a minute, then refresh the page and your live link will show up under the GitHub Pages heading.
 
-The live link to Silver Lodge: https://mscrieky.github.io/SilverMine/
+The live link to Silver Lodge: <https://mscrieky.github.io/SilverMine/>
 
 ## Credits
 
@@ -159,5 +160,5 @@ Media
 
 - Slack community has been a great resource for help and ideas.
 - My mentor Mitko Bachvarov has provided me with good links to helpful websites and gently guided me with good feedback.
-- David Calikes from Code institue has been a great help and I will apreciate him always being there in the late hours. 
+- David Calikes from Code institue has been a great help and I will apreciate him always being there in the late hours.
 - Anna, my insparation and support. Thank you.
